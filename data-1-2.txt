@@ -1,0 +1,11 @@
+Name,Number of assists,Number of goals
+Erling Haaland,10,35
+Kevin De Bruyne,25,15
+Jack Grealish,12,10
+Phil Foden,15,20
+Bernardo Silva,18,8
+Ilkay Gundogan,10,7
+Rodri,5,3
+Ruben Dias,2,1
+Joao Cancelo,8,3
+Ederson,0,0
