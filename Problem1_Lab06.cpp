@@ -3,14 +3,12 @@
 // #include <fstream>
 // #include <cstring>
 // using namespace std;
-
 // struct Car {
 //     char carMake[16];
 //     char carModel[16];
 //     int yearModel, quantity;
 //     double cost;
 // };
-
 // int main(){
 // //1. Read Database: Read the list of all cars from the file "data-1-1.txt"
 //     ifstream fin;
@@ -21,7 +19,6 @@
 //     }
 //     string ignore_line = "";
 //     getline(fin, ignore_line);
-
 //     vector<Car> car;
 //     Car temp;
 //     char make[16];
@@ -37,7 +34,6 @@
 //         car.push_back(temp);
 //     }    
 //     fin.close();
-    
 //     // Cach nay chac chan hon 
 //     // vector<Car> car;
 //     // Car temp;
@@ -56,7 +52,6 @@
 //     //     car.push_back(temp);
 //     // }    
 //     // fin.close();
-
 // //2. Display Inventory: Print a list of all cars.
 //     for (const auto& a : car) {
 //         cout << a.carMake << "   "
@@ -65,9 +60,7 @@
 //              << a.cost << "   "
 //              << a.quantity << endl;
 //     }
-
 // //3. Add a new car.
-
 //     return 0;
 // }
 #include <iostream>
@@ -106,7 +99,6 @@ void readDatabase(const string& filename) {
             cars.push_back(car);  // Add the car to the inventory
         }
     }
-
     file.close();
 }
 

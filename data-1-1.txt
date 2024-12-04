@@ -1,11 +1,3 @@
 Make Model Year Cost Quantity
-Ford Taurus 2023 32000 5
-Honda Accord 2024 28500 3
-BMW 3-Series 2023 42000 1
-Mercedes-Benz E-Class 2022 55000 0
-Tesla Model-3 2024 40000 10
-Toyota Camry 2022 27000 8
-Chevrolet Silverado 2021 45000 2
-Hyundai Sonata 2023 24000 7
-Nissan Altima 2022 25500 4
-Kia Sportage 2024 26500 6
+
+4 5 6 6 4
